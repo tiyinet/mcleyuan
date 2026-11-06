@@ -8,7 +8,7 @@
 
 McLeYuan is a free AI-powered desktop pet game for Windows. Raise a cat, dog, bird or turtle right on your desktop — it walks, sleeps, begs for food and follows your cursor, with a full 7-stage life from egg to senior. A free alternative to BongoCat, Shimeji, Desktop Goose, VPet and Tamagotchi.
 
-下载最新版：Releases 页面｜官网：https://www.mcleyuan.com
+下载最新版：Releases 页面｜官网：https://www.mcleyuan.com/z/index.html
 
 ---
 
