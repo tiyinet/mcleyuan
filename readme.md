@@ -1,3 +1,19 @@
+# 萌宠乐园 · AI 桌面宠物养成游戏（Windows）
+
+**免费的电脑桌面宠物｜16 品种猫、狗、鸟、龟｜从一颗蛋养到老年，7 段人生**
+
+**Free Desktop Pet · Virtual Pet · Tamagotchi for Windows 10/11**
+
+关键词：桌面宠物、电脑桌面宠物、桌面宠物养成游戏、电子宠物、虚拟宠物、桌宠、AI 宠物、宠物养成、Windows 桌面小宠物、类似 QQ 宠物、免费桌面宠物软件。
+
+McLeYuan is a free AI-powered desktop pet game for Windows. Raise a cat, dog, bird or turtle right on your desktop — it walks, sleeps, begs for food and follows your cursor, with a full 7-stage life from egg to senior. A free alternative to BongoCat, Shimeji, Desktop Goose, VPet and Tamagotchi.
+
+下载最新版：Releases 页面｜官网：https://www.mcleyuan.com
+
+---
+
+（以下为使用说明全文）
+
 萌宠乐园 · AI 桌面宠物养成游戏 — 使用说明
 版本 V2.0.31  |  2026-10-28
 适用：Windows 10 / 11（64 位）  |  出品：Yaduo Soft  |  官网：www.mcleyuan.com
